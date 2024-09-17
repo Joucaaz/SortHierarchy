@@ -2,6 +2,8 @@
 
 SortHierarchy is a script designed to sort and organize objects within a specific scene or collection based on various criteria.
 
+[![SortHierarchy](./src/SortHierarchyCapture.webp)](https://joudcazeaux.fr/joucaz/Creations/Script/SortHierarchy/SortHierarchyVideo.mp4)
+
 ## Criteria
 The criteria include:
 - 🔷 **Object Type (Mesh, Light, Camera, Armature, etc.)**
